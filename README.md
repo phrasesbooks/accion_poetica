@@ -1,2 +1,2 @@
-accion_poetica
+accion poetica
 ==============
